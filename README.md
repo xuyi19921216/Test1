@@ -1,2 +1,2 @@
 # Test1
-dev
+Creating a new branch is quick&simple
